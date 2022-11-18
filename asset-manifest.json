@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactable/static/css/main.073c9b0a.css",
+    "main.js": "/reactable/static/js/main.5d77e279.js",
+    "static/js/787.d1408aeb.chunk.js": "/reactable/static/js/787.d1408aeb.chunk.js",
+    "static/media/logo.svg": "/reactable/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/reactable/index.html",
+    "main.073c9b0a.css.map": "/reactable/static/css/main.073c9b0a.css.map",
+    "main.5d77e279.js.map": "/reactable/static/js/main.5d77e279.js.map",
+    "787.d1408aeb.chunk.js.map": "/reactable/static/js/787.d1408aeb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.5d77e279.js"
+  ]
+}
